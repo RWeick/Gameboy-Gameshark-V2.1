@@ -1,4 +1,4 @@
 # Gameboy-Gameshark-V2.1
-An optimized PCB for the Gameboy Color Gameshark Pro
+An optimized PCB for the Gameboy Gameshark
 
-![image](https://github.com/Modman/Gameboy-Color-Gameshark-Pro-REF1395A/blob/main/GBC%20GS.png)
+![image](https://github.com/Modman/Gameboy-Gameshark-V2.1/blob/main/REF1222.png)
