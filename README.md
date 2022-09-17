@@ -1,5 +1,5 @@
 # Gameboy-Gameshark-V2.1
-An optimized PCB for the Gameboy Gameshark
+An optimized PCB for the Gameboy Gameshark.
 
 PCB Thickness: 0.8 mm
 
